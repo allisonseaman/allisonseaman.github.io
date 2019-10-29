@@ -1,0 +1,23 @@
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <title>Activity 1: Basic HTML Bio</title>
+</head>
+  <!--Header-->
+  <h1>Allison Seaman</h1>
+
+
+<body>
+<!-- Image  -->
+<img src="https://placehold.it/200x200" alt="Allison Seaman" />
+
+</body>
+
+<p>Write a short paragrah about yourself or some placeholder</p>
+<p>Write a short paragraph about yourself or some placeholder</p>
+
+
+<li><strong>Email:</strong></strong></li>
+
+
+</html>
